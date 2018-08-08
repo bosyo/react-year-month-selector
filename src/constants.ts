@@ -1,5 +1,5 @@
 export const MONTHS_NAMES: string[] = [
-  'Jan',
+  'January',
   'Feb',
   'Mar',
   'Apr',
